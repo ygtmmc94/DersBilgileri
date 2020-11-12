@@ -1,0 +1,2 @@
+﻿11;Coğrafya;1;Dağlar dağlar;1
+12;Bilgisayar;0;C#;5
